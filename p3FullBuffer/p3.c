@@ -1,7 +1,5 @@
 /*
   Solution to Reader-Writer problem
-  Noah Alegria
-  ID: 1210011306
 */
 
 #include "sem.h"
